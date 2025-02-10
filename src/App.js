@@ -3,7 +3,7 @@ import './App.css'
 
 const App = () => {
   // Create a date object for 26th December 2024, South African time
-  const targetDate = new Date('2025-01-18T16:00:00');
+  const targetDate = new Date('2025-02-13T11:45:00');
   
   // Format the date to South African time
   const formattedDate = new Date(
